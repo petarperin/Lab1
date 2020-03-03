@@ -1,7 +1,3 @@
-nesto drugo
 
-
-
-
-
+tekst
 
